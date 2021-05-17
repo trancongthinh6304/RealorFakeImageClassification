@@ -15,6 +15,9 @@
 * [Link Presentation](https://docs.google.com/presentation/d/12o2xQ4W0sg7fAQ4GHayeycuZOKQu6MArjVX_nGfaGbA/edit?usp=sharing)
 * [Link file Báo Cáo](https://hackmd.io/@vuthiquynhnga/Hy7WrEZwu)
 
+### Kết quả đạt được:
+![image](https://user-images.githubusercontent.com/62460040/118517986-eb295f80-b761-11eb-9ed1-df489d1833c2.png)
+
 ### 2. Hướng dẫn dùng app gradio ứng dụng
 
 1. Vào link weight, thêm file weight vào drive của mình
