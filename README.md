@@ -1,5 +1,5 @@
 # RealorFakeImageClassification:
- Tên dự án: Real or Fake Image Classìication
+ Tên dự án: Real or Fake Image Classification
 ## Thành viên:
 * Trần Công Thịnh
 * Vũ Thị Quỳnh Nga
@@ -21,9 +21,11 @@
 ```
 from keras.models import load_model
 
-weights_path = '/content/drive/MyDrive/Models/AIIJC/ResNet152-21-0.0109.hdf5'
+weights_path = '/content/drive/MyDrive/Models/ResNet152-21-0.0109.hdf5' #đường dẫn đến file weight
 
+#Nhớ khởi tạo model trước
 model = Resnet_based_model
+#Load weight
 model.load_weights(weights_path)
 ```
 3. Sử dụng Gradio
