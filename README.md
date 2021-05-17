@@ -1,7 +1,13 @@
 # RealorFakeImageClassification:
+ Tên dự án: Real or Fake Image Classìication
+## Thành viên:
+* Trần Công Thịnh
+* Vũ Thị Quỳnh Nga
 
-Introduction:
+### 1. Introduction:
 
-Link weight (.hdf5): 
-Link dataset: 
-Link Presentation: 
+* Link weight (.hdf5): 
+* Link dataset: 
+* Link Presentation: 
+
+### 2. 
