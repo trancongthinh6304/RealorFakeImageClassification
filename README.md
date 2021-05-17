@@ -9,7 +9,7 @@
 * Phân biệt hình người thật và hình do AI tạo ra
 * Ứng dụng: trong chơi game, rạp chiếu phim,...😎
 
-#### Link các sản phẩm liên quan
+#### Link các thành phần liên quan
 * [Link weight (.hdf5)](https://drive.google.com/drive/folders/1BHIh8p08TQvfreLLZnWOaA_RL8nWNTVa?usp=sharing) 
 * [Link dataset](https://drive.google.com/drive/folders/1zE4g0rGf27Sjzz3-RTwQ4K4O0khzglxe?usp=sharing)
 * [Link Presentation](https://docs.google.com/presentation/d/12o2xQ4W0sg7fAQ4GHayeycuZOKQu6MArjVX_nGfaGbA/edit?usp=sharing)
